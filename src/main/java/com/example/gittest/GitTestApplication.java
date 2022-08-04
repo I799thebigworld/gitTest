@@ -8,7 +8,8 @@ public class GitTestApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GitTestApplication.class, args);
-        System.out.println("~~~~~~~~~~版本2号~~~~~~~~~~");
+        System.out.println("~~~~~~~~~~版本3号~~~~~~~~~~");
+        System.out.println("~~~~~~~~~~版本3号~~~~~~~~~~");
     }
 
 }
