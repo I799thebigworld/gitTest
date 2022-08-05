@@ -10,7 +10,6 @@ public class GitTestApplication {
         SpringApplication.run(GitTestApplication.class, args);
         System.out.println("~~~~~~~~~~这是版本8号~~~~~~~~~~");
         System.out.println("~~~~~~~~~~这是版本8号~~~~~~~~~~");
-        System.out.println("~~~~~~~~~~这是版本8号~~~~~~~~~~");
     }
 
 }
