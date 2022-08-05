@@ -8,9 +8,9 @@ public class GitTestApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GitTestApplication.class, args);
-        System.out.println("~~~~~~~~~~这是master的版本5号~~~~~~~~~~");
-        System.out.println("~~~~~~~~~~这是master的版本5号~~~~~~~~~~");
-        System.out.println("~~~~~~~~~~这是master的版本5号~~~~~~~~~~");
+        System.out.println("~~~~~~~~~~这是版本5号~~~~~~~~~~");
+        System.out.println("~~~~~~~~~~这是版本5号~~~~~~~~~~");
+        System.out.println("~~~~~~~~~~这是版本5号~~~~~~~~~~");
     }
 
 }
